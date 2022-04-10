@@ -7,6 +7,7 @@ I {backend, frontend and mobile} developer using JavaScript and yours many libs 
 
 ⚡
 
-------------------------------------------
+
+# 
 
 <img src="https://github.com/LeTarzan/letarzan/blob/main/aws-academy-graduate-aws-academy-cloud-foundations.png" width="150" height="150" />
